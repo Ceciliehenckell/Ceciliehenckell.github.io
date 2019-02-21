@@ -1,0 +1,12 @@
+h1{font-family: cursive;}
+
+body{
+  font-family: monospace;
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+.fit-picture{
+  width: 200px;
+}
